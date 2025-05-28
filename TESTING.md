@@ -2,8 +2,6 @@
 
 # Validation Testing using W3C
 
-
-
 # CSS validation
 
 CSS validation is the process of checking your CSS code to ensure it follows the official syntax rules defined by the W3C (World Wide Web Consortium). 
